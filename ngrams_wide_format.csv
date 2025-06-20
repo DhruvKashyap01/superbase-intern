@@ -1,0 +1,10 @@
+0-gram,1-gram,2-gram,3-gram,4-gram,5-gram,6-gram,7-gram,8-gram,9-gram,10-gram
+,The,The quick,The quick brown,The quick brown fox,The quick brown fox jumps,The quick brown fox jumps over,The quick brown fox jumps over the,The quick brown fox jumps over the lazy,The quick brown fox jumps over the lazy dog,
+,quick,quick brown,quick brown fox,quick brown fox jumps,quick brown fox jumps over,quick brown fox jumps over the,quick brown fox jumps over the lazy,quick brown fox jumps over the lazy dog,,
+,brown,brown fox,brown fox jumps,brown fox jumps over,brown fox jumps over the,brown fox jumps over the lazy,brown fox jumps over the lazy dog,,,
+,fox,fox jumps,fox jumps over,fox jumps over the,fox jumps over the lazy,fox jumps over the lazy dog,,,,
+,jumps,jumps over,jumps over the,jumps over the lazy,jumps over the lazy dog,,,,,
+,over,over the,over the lazy,over the lazy dog,,,,,,
+,the,the lazy,the lazy dog,,,,,,,
+,lazy,lazy dog,,,,,,,,
+,dog,,,,,,,,,

@@ -1,0 +1,47 @@
+N-gram_Size,N-gram_Text,Index
+0,,1
+1,The,1
+1,quick,2
+1,brown,3
+1,fox,4
+1,jumps,5
+1,over,6
+1,the,7
+1,lazy,8
+1,dog,9
+2,The quick,1
+2,quick brown,2
+2,brown fox,3
+2,fox jumps,4
+2,jumps over,5
+2,over the,6
+2,the lazy,7
+2,lazy dog,8
+3,The quick brown,1
+3,quick brown fox,2
+3,brown fox jumps,3
+3,fox jumps over,4
+3,jumps over the,5
+3,over the lazy,6
+3,the lazy dog,7
+4,The quick brown fox,1
+4,quick brown fox jumps,2
+4,brown fox jumps over,3
+4,fox jumps over the,4
+4,jumps over the lazy,5
+4,over the lazy dog,6
+5,The quick brown fox jumps,1
+5,quick brown fox jumps over,2
+5,brown fox jumps over the,3
+5,fox jumps over the lazy,4
+5,jumps over the lazy dog,5
+6,The quick brown fox jumps over,1
+6,quick brown fox jumps over the,2
+6,brown fox jumps over the lazy,3
+6,fox jumps over the lazy dog,4
+7,The quick brown fox jumps over the,1
+7,quick brown fox jumps over the lazy,2
+7,brown fox jumps over the lazy dog,3
+8,The quick brown fox jumps over the lazy,1
+8,quick brown fox jumps over the lazy dog,2
+9,The quick brown fox jumps over the lazy dog,1
